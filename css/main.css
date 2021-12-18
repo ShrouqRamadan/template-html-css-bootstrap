@@ -1,0 +1,107 @@
+.cover{
+    background-image:url("../img/photo-1440557653082-e8e186733eeb-1.jpg");
+    /* background-color: violet; */
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    /* height: 500px; */
+    
+}
+.cover h1{
+    color: white;
+    font-size: 70px;
+    font-weight: 100;
+    
+}
+.oo{
+    padding: 15%;
+    text-align: center;
+}
+.btn2{
+    width: 200px;
+    height: 50px;
+    color: white; 
+}
+.h1{
+    color: white;
+    font-size: 70px;
+}
+/* #######3333 */
+.div1{
+    color: rgb(119, 115, 115);
+}
+.h2{
+font-size: 35px;
+font-weight: 100;
+}
+.btn1{
+    width: 200px;
+    height: 50px;
+    color: white;
+    background-color: rgb(99, 46, 223);
+    
+}
+/* div2 */
+.main{
+    background-color:rgb(240, 233, 233);
+}
+/* div */
+.bg{
+    background-image: url(../img/photo-1451186859696-371d9477be93-1-1.jpg);
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    /* height:50vh; */
+}
+.ss{
+    color: white;
+}
+.sm{
+    font-size: 50px;
+    font-weight: 350;
+    padding-top: 60px;
+}
+.li{
+    font-size: 40px;
+    font-weight: 400;
+}
+/* div */
+.dd{
+    background-color: black;
+    color: white;
+}
+.qq{
+    padding-top: 100px;
+    font-size: 40px;
+    font-weight: 400;
+}
+.ii{
+    transition: 1s;
+}
+.ii:hover{
+    transform: translate(50px, 100px);
+}
+.sh{
+    background-image: url(../img/photo-1449168013943-3a15804bb41c-1-1.jpg);
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    color: white;
+}
+.sh h1{
+    font-size: 40px;
+    font-weight: 300;
+    padding-top: 70px;
+}
+.foo{
+    background-color: black;
+    padding: 5%;
+    color: white;
+
+}
+.foo h1{
+    font-size: 40px;
+    font-weight: 300;
+    padding-top: 70px;
+}
+.vv{
+    /* float: right; */
+    padding-right: 50%;
+}
